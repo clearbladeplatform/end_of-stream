@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,end_of-stream",
+    "logging_enabled": "false",
+    "name": "end_of-streamSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "end_of-streamSmokeTest.js"
+}
